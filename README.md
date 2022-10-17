@@ -18,7 +18,7 @@ xxxxxxxxx
 # Project Organiszation
 Where to find what file that does this and that etc.
 
-# Download and usages
+# Download and usage
 Version of software used, how to reproduce what we did
 
 # Data sources
